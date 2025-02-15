@@ -14,4 +14,7 @@ git add ports/<port>
 vcpkg format-manifest ports/<port>/vcpkg.json
 git commit -m "add port: <port> v<version>"
 vcpkg --x-builtin-ports-root=./ports --x-builtin-registry-versions-dir=./versions --verbose x-add-version <port>
+git add versions
+git commit -m "version database"
+git push
 ```
