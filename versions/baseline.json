@@ -1,5 +1,9 @@
 {
   "default": {
+    "ssemath": {
+      "baseline": "0.0.0",
+      "port-version": 0
+    },
     "zimg": {
       "baseline": "3.0.5",
       "port-version": 0
