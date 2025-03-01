@@ -1,6 +1,6 @@
 {
   "name": "ssemath",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple SSE and SSE2 (and now NEON) optimized sin, cos, log and exp.",
   "homepage": "http://gruntthepeon.free.fr/ssemath/",
   "license": "Zlib"
