@@ -1,0 +1,7 @@
+{
+  "name": "avxmath",
+  "version": "0.0.1",
+  "description": "AVX-optimized sin(), cos(), exp() and log() functions.",
+  "homepage": "https://github.com/reyoung/avx_mathfun/",
+  "license": "Zlib"
+}
