@@ -1,5 +1,9 @@
 {
   "default": {
+    "avxmath": {
+      "baseline": "0.0.1",
+      "port-version": 0
+    },
     "ssemath": {
       "baseline": "0.0.1",
       "port-version": 0
