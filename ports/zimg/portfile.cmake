@@ -8,7 +8,10 @@ vcpkg_from_github(
 
 vcpkg_configure_make(
   SOURCE_PATH "${SOURCE_PATH}"
+  OPTIONS_RELEASE
+    --enable-x86simd
   OPTIONS_DEBUG
+    --enable-x86simd
     --enable-debug
 )
 

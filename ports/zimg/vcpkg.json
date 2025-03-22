@@ -3,5 +3,6 @@
   "version": "3.0.5",
   "description": "The z library implements the commonly required image processing basics of scaling, colorspace conversion, and depth conversion",
   "homepage": "https://github.com/sekrit-twc/zimg",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "port-version": 1
 }
