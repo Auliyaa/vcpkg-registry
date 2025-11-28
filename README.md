@@ -18,3 +18,9 @@ git add versions
 git commit -m "version database"
 git push
 ```
+
+## Installing auliyaa triplet
+
+```bash
+cp auliyaa.cmake ${VCPKG_ROOT}/triplets/community/
+```
